@@ -1,0 +1,3 @@
+rootProject.name = 'pageant2'
+
+include ':app'
